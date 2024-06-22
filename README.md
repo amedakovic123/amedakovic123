@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amedakovic123
 - 👀 I’m interested in ... Games, Programming, Charity.
-- 🌱 I’m currently learning ... Computer Science, C#,C++
+- 🌱 I’m currently learning ... JavaScript
 - 📫 How to reach me ... amedakovic3@gmail.com
 or on discord aleksandra#3326
 
